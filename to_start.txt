@@ -1,0 +1,2 @@
+uvicorn main:app
+To auto reload : uvicorn app.main:app --reload
